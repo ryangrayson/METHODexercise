@@ -21,7 +21,7 @@ namespace MethodExercise
             Console.WriteLine($"Great! {likedBand} ROCKS SO HARD! Can you tell me a movie you like?");
             var likedMovie = Console.ReadLine();
 
-            Console.WriteLine($"{likedMovie}?! {userName}, you have really great taste. I like that one a lot too, where do you stay at?");
+            Console.WriteLine($"{likedMovie}?! {userName}, you have really great taste. \nI like that one a lot too.\nWhere do you stay at?");
             var dwelling = Console.ReadLine();
 
             Console.WriteLine($"Yikes. {dwelling} sucks.");
