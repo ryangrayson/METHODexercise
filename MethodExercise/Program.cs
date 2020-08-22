@@ -79,6 +79,9 @@ namespace MethodExercise
 
             Console.WriteLine($"Yikes. {dwelling} sucks.");
 
+
+            //Add some if/else statement to see if they'd like to see what i've learned about them
+
             Console.WriteLine(".");
             Console.WriteLine(".");
             Console.WriteLine(".");
