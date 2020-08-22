@@ -26,6 +26,11 @@ namespace MethodExercise
 
             Console.WriteLine($"Yikes. {dwelling} sucks.");
 
+            Console.WriteLine($"Name: {userName}");
+            Console.WriteLine($"Liked Band: {likedBand}");
+            Console.WriteLine($"Liked Movie: {likedMovie}");
+            Console.WriteLine($"Dwells in: {dwelling}");
+
 
         }
     }
