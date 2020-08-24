@@ -4,8 +4,24 @@ namespace MethodExercise
 {
     class Program
     {
+        public static int Sum( int num1, int num2)
+        {
+            var answer = num1 + num2;
+            return answer;
+        }
+
+        public static int Multiply( int num1, int num2, int num3)
+        {
+            return num1 * num2 * num3;
+        }
+
+
         static void Main(string[] args)
         {
+            var amountOfCars = Sum(2, 6);
+            var bla = Multiply(60, 2, 4);
+        
+
             //What is your name?
             //What is a movie you like?
             //What is a band that you like?
@@ -109,7 +125,7 @@ namespace MethodExercise
             Console.WriteLine(".");
             Console.WriteLine($"You live in {dwelling}");
 
-
+         //Exercise Number 2-------------------------------------------------------
 
 
 

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EF3F3896-676D-4391-9EDD-9B27D02D0DC1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodExercise/Program.cs">
     <Files>
-      <File FileName="MethodExercise/Program.cs" Line="1" Column="1" />
+      <File FileName="MethodExercise/Program.cs" Line="23" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +13,14 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MethodExercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MethodExercise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
